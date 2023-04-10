@@ -7,9 +7,9 @@ const Header = () => {
         <h1 className="text-2xl font-bold">My Header</h1>
         <nav>
           <ul className="flex space-x-4">
-            <li><a href="#" className="hover:text-gray-300">Link 1</a></li>
-            <li><a href="#" className="hover:text-gray-300">Link 2</a></li>
-            <li><a href="#" className="hover:text-gray-300">Link 3</a></li>
+            <li><a href="#" className="hover:text-gray-300">Home</a></li>
+            <li><a href="#" className="hover:text-gray-300">About</a></li>
+            <li><a href="#" className="hover:text-gray-300">Contact Me</a></li>
           </ul>
         </nav>
       </div>

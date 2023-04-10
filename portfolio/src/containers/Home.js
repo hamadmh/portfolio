@@ -1,5 +1,6 @@
 import React from 'react';
 import Suger from '../Images/Suger.png';
+import Movie from '../Images/Movie.png';
 
 const projects = [
   {
@@ -9,10 +10,10 @@ const projects = [
     link: 'https://sugar-and-thunder.netlify.app/',
   },
   {
-    title: 'Project 2',
-    description: 'Nullam ultrices tincidunt ligula, sit amet congue erat luctus id. Curabitur posuere elit vitae velit molestie, vel ullamcorper ex bibendum.',
-    image: 'https://via.placeholder.com/300x200',
-    link: '#',
+    title: 'Muggles',
+    description: 'Movie website, with elegant design and a lot of features.',
+    image: Movie,
+    link: 'https://movie-project-sand-delta.vercel.app/',
   },
   {
     title: 'Project 3',
